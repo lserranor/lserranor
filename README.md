@@ -1,5 +1,5 @@
 ## Hi there, I'm Laura! 👋
-I'm PhD in molecular biology and bioinformatics and I am currently working as data analyst at the Bioinformatics Unit of CNIO. 
+I'm PhD in molecular biology and bioinformatics and I am currently working as data analyst at the Bioinformatics Unit (CNIO). 
 
 - 📊 **Data science**
 - 💻 **Bioinformatics**
