@@ -1,9 +1,9 @@
 ## Hi there, I'm Laura! 👋
 I'm PhD in molecular biology and bioinformatics and I am currently working as data analyst at the Bioinformatics Unit of CNIO. 
 
-- [x] **Data science**
-- [x] **Bioinformatics**
-- [x] **Molecular biology**
+- 📊 **Data science**
+- 💻 **Bioinformatics**
+- 🔬 **Molecular biology**
 
 ## About me
 - **Research interests**: biotechnology 🧬, personalized medicine 💊, plant science 🌱.
