@@ -14,3 +14,8 @@ I'm PhD in molecular biology and bioinformatics and I am currently working as da
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+> "Every science begins as philosophy and ends as art."
+
+— Will Durant
