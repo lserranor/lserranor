@@ -7,7 +7,7 @@ I'm PhD in molecular biology and bioinformatics and I am currently working as da
 
 ## About me
 - **Research interests**: biotechnology 🧬, personalized medicine 💊, plant science 🌱.
-- **Education**: BS in Biotechnology, MS in Genetics and Evolution, MS in Bioinformatics (in process... 📝)
+- **Education**: BS in Biotechnology, MS in Genetics and Evolution.
 - **ORCID**: 0000-0001-5180-6547
 
 ## Languages I know
