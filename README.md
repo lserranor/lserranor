@@ -27,3 +27,7 @@ I'm PhD in molecular biology and bioinformatics and I am currently working as da
 
 <br/>
 
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats-lserranors-projects.vercel.app/api/top-langs/?username=lserranor&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
