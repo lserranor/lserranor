@@ -8,7 +8,7 @@ I'm PhD in molecular biology and bioinformatics and I am currently working as da
 ## About me
 - **Research interests**: biotechnology 🧬, personalized medicine 💊, plant science 🌱.
 - **Education**: BS in Biotechnology, MS in Genetics and Evolution.
-- **ORCID**: 0000-0001-5180-6547...
+- **ORCID**: 0000-0001-5180-6547
 
 ![Anurag's GitHub stats](https://github-readme-stats-nine-ruby-56.vercel.app/api?username=lserranor&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lserranor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
