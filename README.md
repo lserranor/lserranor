@@ -24,6 +24,3 @@ I'm PhD in molecular biology and bioinformatics and I am currently working as da
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ai,ps&theme=dark&perline=2" />
 </div>
-
-<br/>
-
