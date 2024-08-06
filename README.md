@@ -24,3 +24,8 @@ I'm PhD in molecular biology and bioinformatics and I am currently working as da
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ai,ps&theme=dark&perline=2" />
 </div>
+</br>
+</br>
+<img align='center' src='https://media0.giphy.com/media/40a8jFMt0sc73UtpaH/giphy.gif?cid=6c09b952vlop1y6n9slml6otqrilxe1a8d8m8haft11dst6k&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' width='60'>
+<img align='center' src='https://media4.giphy.com/media/t6Kf2qs5fgWiAlOig5/giphy.gif?cid=790b761142bkui0d4rjdlmtqxlh47d0ad4dm2n162o6x4s2k&ep=v1_stickers_search&rid=giphy.gif&ct=s' width='60'>
+<img align='center' src='https://media2.giphy.com/media/fLp2fTpKTZsj2xW1zI/giphy.gif?cid=6c09b952k77hnbprizue3zis6vwzx6s2wsracrrc8tp5b4qc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' width='60'>
