@@ -1,22 +1,29 @@
-## Hi there, I'm Laura! 👋
-I'm PhD in molecular biology and bioinformatics and I am currently working as data analyst at the Bioinformatics Unit (CNIO). 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Zain&size=40&duration=3000&pause=500&color=576CBB&center=true&vCenter=true&width=435&height=60&lines=Hi+there!+👋;I'm+Laura+Serrano!;" />
+</h1>
+<br/>
+<div align="center"> 
+I'm PhD in molecular biology and bioinformatics and I am currently working as data analyst at the Bioinformatics Unit (CNIO).
 
-- 📊 **Data science**
-- 💻 **Bioinformatics**
-- 🔬 **Molecular biology**
+📊 **Data science** 
+💻 **Bioinformatics** 
+🔬 **Molecular biology**
 
 ## About me
-- **Research interests**: biotechnology 🧬, personalized medicine 💊, plant science 🌱.
-- **Education**: BS in Biotechnology, MS in Genetics and Evolution.
-- **ORCID**: 0000-0001-5180-6547
+**Research interests**: biotechnology 🧬, personalized medicine 💊, plant science 🌱.
+
+**Education**: BS in Biotechnology, MS in Genetics and Evolution.
+
+**ORCID**: 0000-0001-5180-6547
 
 
-## Languages I know
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+<h2 align="center">Languages and tools</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,anaconda,r,python,bash&theme=dark&perline=6" />
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=ai,ps&theme=dark&perline=2" />
+</div>
 
----
-> "Every science begins as philosophy and ends as art."
+<br/>
 
-— Will Durant
