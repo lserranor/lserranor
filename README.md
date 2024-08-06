@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Zain&size=40&duration=3000&pause=500&color=576CBB&center=true&vCenter=true&width=435&height=60&lines=Hi+there!+👋;I'm+Laura+Serrano!;" />
 </h1>
-<br/>
+
 <div align="center"> 
 I'm PhD in molecular biology and bioinformatics and I am currently working as data analyst at the Bioinformatics Unit (CNIO).
 
