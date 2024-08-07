@@ -19,7 +19,7 @@ I'm PhD in molecular biology and bioinformatics and I am currently working as da
 
 <h2 align="center">Languages and tools</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,anaconda,r,python,bash&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,anaconda,r,python,bash&theme=dark&perline=3" />
 </div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ai,ps&theme=dark&perline=2" />
